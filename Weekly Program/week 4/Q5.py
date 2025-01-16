@@ -21,5 +21,3 @@ print("Converts fahrenheit to celcius.")
 temperature_in_fahrenheit = [32,101.3,28.4]
 for i in temperature_in_fahrenheit:
     print(f"{i}°F is equal to {fahrenheit_to_celcius(i):.2f}°C")
-
-

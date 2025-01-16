@@ -22,7 +22,3 @@ def test():
 if __name__ == "__main__":
     # Call the test function when the script is run directly.
     test()
-
-
-
-

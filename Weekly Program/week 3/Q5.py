@@ -32,4 +32,3 @@ while True:
     
     else:
         print("Error: Password do not match. Try again.")
-    

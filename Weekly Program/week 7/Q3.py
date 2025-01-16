@@ -26,4 +26,3 @@ while True:
         # Store the capital city in the dictionary
         countries_capitals[country] = capital
         print(f"Thank you! The capital city of {country} has been added as {capital}.")
-

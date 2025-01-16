@@ -13,4 +13,3 @@ if name:
 else:
     # If the name is empty, print out " Hello , Stranger!".
     print("Hello, Stranger!")
-

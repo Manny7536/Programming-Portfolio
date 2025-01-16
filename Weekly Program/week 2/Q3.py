@@ -25,4 +25,3 @@ else:
     leftover_text = "students"
 
 print(f"There will be {group_size} {group_text} with {leftover_students} {leftover_text} left over.")
-

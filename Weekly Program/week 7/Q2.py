@@ -27,5 +27,3 @@ word2 = "Programming"
 print("Letters in at least one of the words:", letters_in_at_least_one(word1, word2))
 print("Letters in both words:", letters_in_both(word1, word2))
 print("Letters in either word, but not in both:", letters_in_either_but_not_both(word1, word2))
-
-

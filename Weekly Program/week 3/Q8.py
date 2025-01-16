@@ -31,4 +31,3 @@ else:
     # Loop to display "Times table" for negative number.
     for j in range(12,-1,-1):
         print(f"{j} * {number} = {j*number}")
-        

@@ -16,5 +16,3 @@ def test_decrypt_message():
 
 # Run the test
 test_decrypt_message()
-
-

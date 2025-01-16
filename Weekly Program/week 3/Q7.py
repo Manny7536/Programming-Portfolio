@@ -23,5 +23,3 @@ while True:
 # Loop to generate and display the "Times table".
 for i in range(13):
     print(f"{i} * {number} = {i*number}")
-    
-
