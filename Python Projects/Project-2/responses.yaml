@@ -1,0 +1,50 @@
+---
+keyword_responses:
+  admissions: For admissions inquiries, please visit the Admissions Office in Building
+    A or call (123) 456-7890.
+  library_hours: The library is open from 8:00 AM to 10:00 PM on weekdays and 10:00
+    AM to 6:00 PM on weekends.
+  cafeteria_menu: Today's cafeteria menu includes pasta, sandwiches, salads, and a
+    variety of drinks.
+  campus_map: You can find the campus map on the 'Campus Guide' section of our website.
+  events: Check out our Events Calendar for upcoming workshops, seminars, and sports
+    activities.
+  parking: Student parking is available in Lots B and C. Permits are required and
+    can be purchased online.
+  scholarships: Information about scholarships and financial aid is available on the
+    Financial Aid page of our website.
+  sports_facilities: The sports complex includes a gym, swimming pool, and tennis
+    courts. Open from 6:00 AM to 9:00 PM.
+  lost_and_found: The Lost and Found is located at the Security Office in Building
+    D.
+  wifi: Campus WiFi is available. Use your student credentials to log in to 'CollegeNetWiFi'.
+  student_portal: Access your grades, timetable, and announcements via the Student
+    Portal on our website.
+  housing: On-campus housing options are available. Visit the Housing Office or contact
+    housing@college.edu for details.
+  career_services: Career Services offers resume workshops and job placement assistance.
+    Visit Room 105 in Building E.
+  emergency: For emergencies, call Campus Security at (123) 456-7899 or dial 911 for
+    immediate assistance.
+  academic_calendar: The academic calendar, including holidays and exam schedules,
+    is available on the Academics page.
+fallback_responses:
+- I'm sorry, I'm not sure I understand. Can you please rephrase your question?
+- I'm not equipped to answer that question. You may want to contact the Student Servicee
+  Department for assistance.
+- I'm still learning and may not have the information you're looking for. You can
+  try asking me something else.
+- I'm not programmed to provide that information. You can check the website or contact
+  the relevant department for help.
+- I'm unable to assist with that request. You may want to speak with a staff member
+  for further assistance.
+agents_name:
+- Alex
+- Ava
+- Ethan
+- Emma
+- Oliver
+- Isabella
+- Lucas
+- Mia
+...
